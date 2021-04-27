@@ -1,4 +1,54 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Process Cooperation"
-    id="id-cb21d26b2e1a465ab8b405dc3515e5dd"/>
+    id="id-cb21d26b2e1a465ab8b405dc3515e5dd">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1c8beb3a0f1c41929ec9a600beddae2e">
+    <bounds
+        x="48"
+        y="36"
+        width="169"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-8e1ecc3ab477422b9d0fd6ed5a9ca68b.xml#id-8e1ecc3ab477422b9d0fd6ed5a9ca68b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7d4db942f5dc4173a18a44b8e067ce31">
+    <bounds
+        x="336"
+        y="36"
+        width="169"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-17f4487e065249ab9c123b76e3309508.xml#id-17f4487e065249ab9c123b76e3309508"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-980f6fc020944a48a75c7f0908950b38">
+    <bounds
+        x="636"
+        y="36"
+        width="157"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-43959d3eab6f4e6eabe86f95e0f771e3.xml#id-43959d3eab6f4e6eabe86f95e0f771e3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3b73397076d844068f0eba4e876fe1ae">
+    <bounds
+        x="888"
+        y="36"
+        width="157"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_id-d9186fbae3a34e71ae4d42b979485aa8.xml#id-d9186fbae3a34e71ae4d42b979485aa8"/>
+  </children>
+</archimate:ArchimateDiagramModel>
