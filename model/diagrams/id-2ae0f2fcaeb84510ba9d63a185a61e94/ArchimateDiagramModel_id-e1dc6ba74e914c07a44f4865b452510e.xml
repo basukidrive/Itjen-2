@@ -1,4 +1,53 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dashboard Portofolio"
-    id="id-e1dc6ba74e914c07a44f4865b452510e"/>
+    id="id-e1dc6ba74e914c07a44f4865b452510e">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-e3055b5503164a0cb33972cd1b216693"
+      name="Pengembangan Kompetensi"
+      textAlignment="1">
+    <bounds
+        x="119"
+        y="83"
+        width="514"
+        height="156"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-75c1a81e4d67447eae81bbdb7978c4dc">
+      <bounds
+          x="24"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-59fdf1c3a2c148edaafc03512bedb567.xml#id-59fdf1c3a2c148edaafc03512bedb567"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7862a17720004edfa7e92ffce0400722">
+      <bounds
+          x="191"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-11b2038b44124583b2e9f16cf0894879.xml#id-11b2038b44124583b2e9f16cf0894879"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7dacc1340d734893a4377ab05c86ebaf">
+      <bounds
+          x="359"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-dce7c126f185455d852eb6b0fdb4712a.xml#id-dce7c126f185455d852eb6b0fdb4712a"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
