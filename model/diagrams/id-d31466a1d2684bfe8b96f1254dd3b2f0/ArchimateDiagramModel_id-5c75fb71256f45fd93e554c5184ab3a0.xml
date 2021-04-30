@@ -44,19 +44,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-90e1cef4d2d5459aaac556804d76ac82"
-      fillColor="#ff80ff">
-    <bounds
-        x="684"
-        y="24"
-        width="181"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:WorkPackage"
-        href="WorkPackage_id-a8cbdd790ec54053bd9ae91e2239d2c3.xml#id-a8cbdd790ec54053bd9ae91e2239d2c3"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1bec92f898f3439da623553cd2aaabbc">
     <bounds
         x="72"
